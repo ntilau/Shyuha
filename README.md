@@ -1,19 +1,29 @@
-# Boreas
+# Shuha Project
 
-## JICA Project Findings: Rwanda Electricity Development Plan
+## Rwanda Energy Sector Research Repository
 
-As of recent research (September 2026):
+This repository contains research documents and findings related to Rwanda's energy sector, with a particular focus on geothermal energy development.
 
-**Project:** Project for Preparation of Electricity Development Plan for Rwanda  
-**Agency:** Japan International Cooperation Agency (JICA)  
+## Contents
 
-**Objectives:**
-- Formulate Master Plan for power generation and transmission expansion (15-year horizon)
-- Develop Master Plan for Sustainable Geothermal Energy Development  
-- Reduce fossil-fuel dependence and stabilize electricity supply
+- **JICA.md** - Findings from the Japan International Cooperation Agency (JICA) project on Rwanda's Electricity Development Plan
+- **MININFRA.md** - Summary of Rwanda's Ministry of Infrastructure (MININFRA) energy sector information
+- **SUMMARY.md** - Research findings on geothermal energy potential and development in Rwanda
 
-**Current Status:** Monitoring results not available (per JICA project listing)
+## Project Focus
 
-**Context:** Rwanda currently has no commercial geothermal production despite significant potential (estimated up to 100 MW). Exploration continues with surface studies in Kinigi, Gisenyi, and Bugarama, while Karisimbi drilling found no viable resource. Test sites are planned at Kinigi and Karisimbi for future development.
+The Shuha project aggregates information about:
+- Rwanda's energy mix and sector planning
+- Geothermal energy prospects and exploration efforts
+- International cooperation projects (particularly JICA-supported initiatives)
+- Energy access goals and sustainable development strategies
 
-This JICA-supported initiative aims to create the strategic framework necessary for developing Rwanda's geothermal resources as part of its broader energy diversification strategy outlined in the Energy Sector Strategic Plan.
+## Last Updated
+
+September 2026
+
+## Repository Information
+
+- Originally created as the Boreas project
+- Renamed to Shuha on September 6, 2026
+- Maintained on GitHub at: https://github.com/ntilau/Shuha
