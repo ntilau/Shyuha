@@ -1,9 +1,15 @@
-# CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Repository Overview
-This repository is a research knowledge base focused on Rwanda's energy sector, particularly geothermal energy, solar power ROI, and water pumping energy requirements. It contains markdown documents summarizing findings from various sources (JICA reports, MININFRA data, web research, and engineering analyses).
+This repository is a research knowledge base focused on Rwanda's energy sector with three primary pillars: geothermal energy potential and development, solar power return on investment (ROI) analysis, and water pumping energy requirements. It contains markdown documents summarizing findings from various sources (JICA reports, MININFRA data, web research, and engineering analyses).
+
+## Project Goals
+The Shyuha project aims to:
+- Consolidate research on Rwanda's geothermal energy prospects, including profitability and direct use applications.
+- Analyze solar power ROI for various system sizes to inform investment decisions in Kigali City.
+- Evaluate energy requirements and optimization opportunities for water pumping to support municipal water supply.
+- Provide a reliable knowledge base for policymakers, investors, and researchers working on Rwanda's sustainable energy transition.
 
 ## File Structure
 - `JICA.md` – Findings from the Japan International Cooperation Agency (JICA) project on Rwanda's Electricity Development Plan.
@@ -11,6 +17,8 @@ This repository is a research knowledge base focused on Rwanda's energy sector, 
 - `SUMMARY.md` – Research findings on geothermal energy potential, prospect zones, exploration history, and development plans for Rwanda.
 - `SOLAR_ROI_ANALYSIS.md` – Return on investment analysis for solar photovoltaic systems (100kW–10MW) targeting Kigali City.
 - `WATER_PUMPING_ENERGY.md` – Analysis of energy required to pump water to Kigali City, including elevation head, friction losses, and cost estimates.
+- `HOT_SPRINGS_ENERGY_PROFITABILITY.md` – Profitability and ROI analysis of harnessing Rwanda's hot springs energy for electrical generation and direct thermal applications.
+- `PROJECT_TIMELINE.md` – Consolidated implementation timeline and specific activities for all project phases.
 - `README.md` – Project overview and description of the Shyuha project.
 - `.claude/settings.local.json` – Permission settings for Claude Code (allowed Bash and WebFetch commands).
 
@@ -59,6 +67,8 @@ When adding a new markdown file:
 - Use consistent heading styles (e.g., `##` for major sections, `###` for subsections).
 - Avoid duplication; if a topic is covered across multiple files, consider cross-referencing with relative links.
 - When updating existing files, preserve the original intent and clearly note any changes in the commit message.
+- Focus contributions on the three pillars: geothermal energy, solar power ROI, and water pumping energy.
+- When adding new research, ensure it aligns with Rwanda's energy sector goals and includes proper citations.
 
 ## Example Workflow
 1. Research a new topic (e.g., wind energy potential in Rwanda).
@@ -72,4 +82,3 @@ When adding a new markdown file:
 ## Maintenance
 - Periodically check for broken links in markdown files.
 - Update statistics or figures when newer data becomes available.
-- Ensure that all claims are backed by credible sources; tag any unverified claims appropriately.
