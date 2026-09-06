@@ -1,4 +1,4 @@
-# Shuha Project
+# Shyuha Project
 
 ## Rwanda Energy Sector Research Repository
 
@@ -12,7 +12,7 @@ This repository contains research documents and findings related to Rwanda's ene
 
 ## Project Focus
 
-The Shuha project aggregates information about:
+The Shyuha project aggregates information about:
 - Rwanda's energy mix and sector planning
 - Geothermal energy prospects and exploration efforts
 - International cooperation projects (particularly JICA-supported initiatives)
@@ -26,4 +26,5 @@ September 2026
 
 - Originally created as the Boreas project
 - Renamed to Shuha on September 6, 2026
-- Maintained on GitHub at: https://github.com/ntilau/Shuha
+- Renamed to Shyuha on September 6, 2026
+- Maintained on GitHub at: https://github.com/ntilau/Shyuha
