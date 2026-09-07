@@ -1215,8 +1215,7 @@ This GANTT chart provides a visual representation of the Shyuha project timeline
 
 ### Repository Information
 
-- Originally created as the Boreas project
-- Renamed to Shyuha on September 6, 2026
+- Originally created as the Shyuha project on September 6, 2026
 - Maintained on GitHub at: https://github.com/ntilau/Shyuha
 
 ### Topics
