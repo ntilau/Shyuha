@@ -18,7 +18,7 @@ This repository aggregates research documents, datasets, and findings related to
   - [Partnership Strategy](#partnership-strategy)
   - [Impact Metrics](#impact-metrics)
   - [Implementation Roadmap (2026-2029)](#implementation-roadmap-2026-2029)
-  - [GitHub Project Tracking](#github-project-tracking)
+  - [Project Tracking](#project-tracking)
   - [Call to Action](#call-to-action)
 - [Research Documents and Analyses](#research-documents-and-analyses)
   - [Japan International Cooperation Agency Findings](#japan-international-cooperation-agency-findings)
