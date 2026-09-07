@@ -21,14 +21,14 @@ This repository aggregates research documents, datasets, and findings related to
   - [GitHub Project Tracking](#github-project-tracking)
   - [Call to Action](#call-to-action)
 - [Research Documents and Analyses](#research-documents-and-analyses)
-  - [JICA.md - Japan International Cooperation Agency Findings](#jicamd---japan-international-cooperation-agency-findings)
-  - [MININFRA.md - Ministry of Infrastructure Energy Sector Information](#mininframmd---ministry-of-infrastructure-energy-sector-information)
-  - [SUMMARY.md - Geothermal Energy in Rwanda: Summary of Findings](#summarymd---geothermal-energy-in-rwanda-summary-of-findings)
-  - [SOLAR_ROI_ANALYSIS.md - Solar Power Generation ROI Analysis](#solar_roi_analysismd---solar-power-generation-roi-analysis)
-  - [WATER_PUMPING_ENERGY.md - Energy Required to Pump Water to Kigali City](#water_pumping_energymd---energy-required-to-pump-water-to-kigali-city)
-  - [HOT_SPRINGS_ENERGY_PROFITABILITY.md - Hot Springs Energy Profitability Analysis for Rwanda](#hot_springs_energy_profitabilitymd---hot-springs-energy-profitability-analysis-for-rwanda)
-  - [PROJECT_TIMELINE.md - Shyuha Project: Implementation Timeline and Activities](#project_timelinemd---shyuha-project-implementation-timeline-and-activities)
-  - [GANTT_CHART.md - Shyuha Project GANTT Chart](#gantt_chartmd---shyuha-project-gantt-chart)
+  - [Japan International Cooperation Agency Findings](#japan-international-cooperation-agency-findings)
+  - [Ministry of Infrastructure Energy Sector Information](#ministry-of-infrastructure-energy-sector-information)
+  - [Geothermal Energy in Rwanda: Summary of Findings](#geothermal-energy-in-rwanda-summary-of-findings)
+  - [Solar Power Generation ROI Analysis](#solar-power-generation-roi-analysis)
+  - [Energy Required to Pump Water to Kigali City](#energy-required-to-pump-water-to-kigali-city)
+  - [Hot Springs Energy Profitability Analysis for Rwanda](#hot-springs-energy-profitability-analysis-for-rwanda)
+  - [Shyuha Project: Implementation Timeline and Activities](#shyuha-project-implementation-timeline-and-activities)
+  - [Shyuha Project GANTT Chart](#shyuha-project-gantt-chart)
 - [Appendix](#appendix)
   - [Repository Information](#repository-information)
   - [Topics](#topics)
@@ -134,7 +134,7 @@ Addressing Kigali's significant water-pumping energy burden (~$5.2M/year):
 
 ### Implementation Roadmap (2026-2029)
 **Q4 2026 - Q2 2027**: Foundation Building
-- Complete geothermal direct-use profitability analysis (HOT_SPRINGS_ENERGY_PROFITABILITY.md)
+- Complete geothermal direct-use profitability analysis (HOT_SPRINGS_ENERGY_PROFITABILITY)
 - Finalize solar ROI models for various scales
 - Establish partnerships with agribusiness cooperatives and municipal utilities
 - Initiate Kenya-Rwanda geothermal technical exchange program
@@ -152,8 +152,8 @@ Addressing Kigali's significant water-pumping energy burden (~$5.2M/year):
 - Create franchise model for geothermal direct-use systems nationwide
 - Establish joint ventures with Kenyan partners for larger geothermal power projects (>5MW)
 
-For a detailed month-by-month timeline and specific activities, see [PROJECT_TIMELINE.md](PROJECT_TIMELINE.md).
-For a visual timeline representation, see [GANTT_CHART.md](GANTT_CHART.md).
+For a detailed month-by-month timeline and specific activities, see [PROJECT_TIMELINE](PROJECT_TIMELINE).
+For a visual timeline representation, see [GANTT_CHART](GANTT_CHART).
 
 ### GitHub Project Tracking
 The Shyuha project uses a GitHub Projects board to track implementation progress, milestones, and activities. The board is organized into columns corresponding to the implementation phases:
@@ -178,7 +178,7 @@ Researchers, investors, and policymakers interested in collaborating on renewabl
 
 ## Research Documents and Analyses
 
-### JICA.md - Japan International Cooperation Agency Findings
+### Japan International Cooperation Agency Findings
 
 # Boreas
 
@@ -202,7 +202,7 @@ This JICA-supported initiative aims to create the strategic framework necessary 
 
 ---
 
-### MININFRA.md - Ministry of Infrastructure Energy Sector Information
+### Ministry of Infrastructure Energy Sector Information
 
 # Summary of MININFRA Energy Sector Information
 
@@ -256,7 +256,7 @@ Coordination occurs through the E-SWAP secretariat and regular Joint Sector Revi
 
 ---
 
-### SUMMARY.md - Geothermal Energy in Rwanda: Summary of Findings
+### Geothermal Energy in Rwanda: Summary of Findings
 
 # Geothermal Energy in Rwanda: Summary of Findings
 
@@ -345,7 +345,7 @@ By implementing these lessons and fostering regional cooperation, Rwanda can red
 
 ---
 
-### SOLAR_ROI_ANALYSIS.md - Solar Power Generation ROI Analysis
+### Solar Power Generation ROI Analysis
 
 # Solar Power Generation ROI Analysis: 100kW to 10MW Systems for Kigali City
 
@@ -463,7 +463,7 @@ For immediate implementation, 100kW-500kW systems targeting high-tariff commerci
 
 ---
 
-### WATER_PUMPING_ENERGY.md - Energy Required to Pump Water to Kigali City
+### Energy Required to Pump Water to Kigali City
 
 # Energy Required to Pump Water to Kigali City
 
@@ -587,7 +587,7 @@ If Kigali were to use sources at different elevations:
 - **Grid-tied systems with net metering**: Offset pumping costs with renewable generation
 
 ## Comparison with Solar PV Generation Potential
-From the SOLAR_ROI_ANALYSIS.md in this repository:
+From the SOLAR_ROI_ANALYSIS in this repository:
 - **100kW solar system** in Kigali generates ~148,920 kWh/year
 - This could pump approximately: 148,920 kWh/year ÷ 0.89 kWh/m³ = **167,000 m³/year**
 - Or about **457 m³/day** - roughly 0.46% of Kigali's estimated daily demand
@@ -619,7 +619,7 @@ This demonstrates that solar PV could offset a significant portion of Kigali's w
 
 ---
 
-### HOT_SPRINGS_ENERGY_PROFITABILITY.md - Hot Springs Energy Profitability Analysis for Rwanda
+### Hot Springs Energy Profitability Analysis for Rwanda
 
 # Hot Springs Energy Profitability Analysis for Rwanda
 
@@ -640,13 +640,13 @@ This analysis evaluates the profitability and return on investment (ROI) potenti
 
 ## Energy Demand Context: Rwanda's Current Needs
 ### Electricity Demand
-- **Current Installed Capacity**: ~216 MW (from MININFRA.md)
+- **Current Installed Capacity**: ~216 MW (from MININFRA)
 - **Target Capacity by 2024**: 512 MW (growth of ~296 MW needed)
 - **Electricity Access Goal**: 100% by 2024 (52% on-grid, 48% off-grid)
 - **Current Access**: 51% of households (37% grid, 14% off-grid)
 
 ### Water Pumping Energy Requirements
-From WATER_PUMPING_ENERGY.md analysis:
+From WATER_PUMPING_ENERGY analysis:
 - **Energy Required**: 0.64-0.89 kWh/m³ (depending on efficiency and friction losses)
 - **Kigali's Estimated Daily Water Demand**: ~100,000 m³/day
 - **Annual Electricity for Pumping**: ~32.5 GWh/year
@@ -923,17 +923,17 @@ The optimal approach for Shyuha would be to initiate pilot direct use projects t
 1. [Rwanda Energy Group - Geothermal Section](https://www.reg.rw/what-we-do/generation/geothermal/)
 2. [UNIDO Geothermal Fact Sheet for Rwanda (PDF)](https://downloads.unido.org/ot/32/09/32096187/Geothermal%20fact%20sheet%20for%20promoting%20PPP%20-Rwanda.pdf)
 3. [Rwanda Dispatch - Geothermal Schemes Article](https://rwandadispatch.com/geothermal-schemes-boost-powers-rwandas-carbon-reduction-drive/)
-4. [WATER_PUMPING_ENERGY.md] - Local analysis of Kigali water pumping energy requirements
-5. [SOLAR_ROI_ANALYSIS.md] - Local analysis of solar ROI for comparison
-6. MININFRA.md - Rwanda energy sector summary
-7. SUMMARY.md - Geothermal energy research findings
-8. JICA.md - JICA project findings on Rwanda Electricity Development Plan
+4. [WATER_PUMPING_ENERGY] - Local analysis of Kigali water pumping energy requirements
+5. [SOLAR_ROI_ANALYSIS] - Local analysis of solar ROI for comparison
+6. Rwanda energy sector summary
+7. Geothermal energy research findings
+8. JICA project findings on Rwanda Electricity Development Plan
 
 *Note: Financial estimates are based on available public data and industry benchmarks. Site-specific feasibility studies are recommended for accurate project economics.*
 
 ---
 
-### PROJECT_TIMELINE.md - Shyuha Project: Implementation Timeline and Activities
+### Shyuha Project: Implementation Timeline and Activities
 
 # Shyuha Project: Implementation Timeline and Activities
 
@@ -953,7 +953,7 @@ The Shyuha project follows a phased approach designed to minimize risk, demonstr
 **Duration: 6 months**
 
 #### Geothermal Direct-Use Applications
-- Complete geothermal direct-use profitability analysis (HOT_SPRINGS_ENERGY_PROFITABILITY.md)
+- Complete geothermal direct-use profitability analysis (HOT_SPRINGS_ENERGY_PROFITABILITY)
 - Conduct detailed temperature and flow rate measurements at Gisenyi and Bugarama hot springs
 - Engage with agricultural cooperatives and fish farmers near prospect zones
 - Initiate Kenya-Rwanda geothermal technical exchange program with KenGen and GDC
@@ -1119,15 +1119,15 @@ This timeline should be reviewed and updated:
 
 ---
 *Timeline last updated: September 2026*
-*Based on research from: HOT_SPRINGS_ENERGY_PROFITABILITY.md, SOLAR_ROI_ANALYSIS.md, WATER_PUMPING_ENERGY.md, SUMMARY.md, JICA.md, MININFRA.md*
+*Based on research from: HOT_SPRINGS_ENERGY_PROFITABILITY, SOLAR_ROI_ANALYSIS, WATER_PUMPING_ENERGY, SUMMARY, JICA, MININFRA*
 
 ---
 
-### GANTT_CHART.md - Shyuha Project GANTT Chart
+### Shyuha Project GANTT Chart
 
 # Shyuha Project GANTT Chart
 
-This GANTT chart visualizes the implementation timeline for the Shyuha project, based on the detailed timeline in PROJECT_TIMELINE.md.
+This GANTT chart visualizes the implementation timeline for the Shyuha project, based on the detailed timeline in PROJECT_TIMELINE.
 
 ```mermaid
 gantt
@@ -1213,7 +1213,7 @@ This GANTT chart provides a visual representation of the Shyuha project timeline
 
 1. **GitHub Projects Board**: Use the [Shyuha GitHub Projects board](https://github.com/ntilau/Shyuha/projects/1) to track specific tasks and milestones
 2. **Quarterly Reviews**: Update progress every quarter based on this timeline
-3. **Dependency Tracking**: Refer to the risk management and success criteria sections in PROJECT_TIMELINE.md
+3. **Dependency Tracking**: Refer to the risk management and success criteria sections in PROJECT_TIMELINE
 4. **Stakeholder Reporting**: Use this chart for presentations to investors, partners, and government agencies
 
 ## Timeline Summary
