@@ -152,10 +152,7 @@ Addressing Kigali's significant water-pumping energy burden (~$5.2M/year):
 - Create franchise model for geothermal direct-use systems nationwide
 - Establish joint ventures with Kenyan partners for larger geothermal power projects (>5MW)
 
-For a detailed month-by-month timeline and specific activities, see [PROJECT_TIMELINE](PROJECT_TIMELINE).
-For a visual timeline representation, see [GANTT_CHART](GANTT_CHART).
-
-### GitHub Project Tracking
+### Project Tracking
 The Shyuha project uses a GitHub Projects board to track implementation progress, milestones, and activities. The board is organized into columns corresponding to the implementation phases:
 - **Foundation Building** (Q4 2026 - Q2 2027)
 - **Pilot Implementation** (Q3 2027 - Q4 2028)
@@ -178,7 +175,7 @@ Researchers, investors, and policymakers interested in collaborating on renewabl
 
 ## Research Documents and Analyses
 
-# JICA Project Findings: Rwanda Electricity Development Plan
+### JICA Project Findings: Rwanda Electricity Development Plan
 
 As of recent research (September 2026):
 
@@ -198,9 +195,9 @@ This JICA-supported initiative aims to create the strategic framework necessary 
 
 ---
 
-# Summary of MININFRA Energy Sector Information
+### Summary of MININFRA Energy Sector Information
 
-## Rwanda's Energy Mix
+#### Rwanda's Energy Mix
 
 - **Hydropower**: Approximately 47% of installed capacity
   - Nyabarongo I: 28 MW
@@ -227,18 +224,18 @@ This JICA-supported initiative aims to create the strategic framework necessary 
   - Gishoma: 15 MW
   - Hakan project: 80 MW
 
-## Energy Access
+#### Energy Access
 
 - **Current Access**: 51% of households
   - Grid connection: 37%
   - Off-grid: 14%
 - **Target**: Universal coverage by 2024
 
-## National Energy Consumption
+#### National Energy Consumption
 
 - **Biomass**: Supplies approximately 85% of national energy use
 
-## Policy Framework
+#### Policy Framework
 
 Rwanda's energy sector is guided by:
 - Electricity Law
@@ -250,60 +247,60 @@ Coordination occurs through the E-SWAP secretariat and regular Joint Sector Revi
 
 ---
 
-# Geothermal Energy in Rwanda: Summary of Findings
+### Geothermal Energy in Rwanda: Summary of Findings
 
-## Overview
+#### Overview
 Rwanda has significant geothermal energy potential as part of its strategy to diversify energy sources, reduce fossil fuel dependence, and achieve universal electricity access.
 
-## Key Potential Estimates
+#### Key Potential Estimates
 - **Conservative estimate**: Up to 100 MW (Rwanda Energy Group, African Geothermal Association)
 - **Higher estimates**: Some sources suggest potential exceeding 700 MW (Rwanda Dispatch)
 
-## Prospect Zones
-### Northwestern Volcanic Area
+#### Prospect Zones
+##### Northwestern Volcanic Area
 - Gisenyi
 - Karisimbi 
 - Kinigi
 
-### Southern Rift-Fault Area
+##### Southern Rift-Fault Area
 - Bugarama
 
-### Additional Areas Mentioned
+##### Additional Areas Mentioned
 - Near Lake Kivu
 - Volcanoes National Park
 - Rubavu Graben
 - Mashyuza
 
-## Exploration History
+#### Exploration History
 - **1980s**: Early geothermal work began
 - **2006**: Two deep wells drilled at Karisimbi (no viable system found)
 - **2006-2012**: Early surface studies identified four prospects
 - **Current focus**: Detailed surface investigations in Bugarama and Gisenyi, with gradient-well work in Bugarama
 
-## Development Plans (Per 2015 Master Plan)
+#### Development Plans (Per 2015 Master Plan)
 - **5-year exploration phase**: Surface work, drilling, well testing
 - **3-year construction phase**: If resources proven
 - Rwanda planned to host the Seventh Africa Rift Geothermal Conference (ARGeo-C7) in October 2018
 
-## Strategic Importance in National Energy Policy
-### Electricity Access Goals
+#### Strategic Importance in National Energy Policy
+##### Electricity Access Goals
 - Target: 100% electricity access by 2024
 - Breakdown: 52% on-grid, 48% off-grid
 
-### Capacity Expansion Targets
+##### Capacity Expansion Targets
 - Increase installed capacity from 216 MW to 512 MW by 2024
 - Geothermal positioned as clean, reliable baseload power
 
-### Climate Commitments
+##### Climate Commitments
 - Critical for meeting Rwanda's 2030 emissions-reduction pledge of 38%
 - Geothermal provides "stable and non-emitting power" compared to other renewables
 
-## Investment Requirements
+#### Investment Requirements
 - **$600 million**: Estimated needed for universal electricity access
 - **$11 billion**: Over next decade for mitigation and adaptation
 - Private sector and financial institutions viewed as essential partners for development
 
-## Regional Cooperation and Lessons from Kenya
+#### Regional Cooperation and Lessons from Kenya
 Rwanda can significantly accelerate its geothermal development by leveraging Kenya's extensive experience, as Kenya has emerged as a global leader with over 900 MW of installed geothermal capacity (primarily from the Olkaria complex) as of 2026.
 
 ### Key Lessons from Kenya's Geothermal Success:
