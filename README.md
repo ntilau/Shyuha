@@ -178,9 +178,7 @@ Researchers, investors, and policymakers interested in collaborating on renewabl
 
 ## Research Documents and Analyses
 
-### Japan International Cooperation Agency Findings
-
-## JICA Project Findings: Rwanda Electricity Development Plan
+# JICA Project Findings: Rwanda Electricity Development Plan
 
 As of recent research (September 2026):
 
