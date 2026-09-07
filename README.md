@@ -180,8 +180,6 @@ Researchers, investors, and policymakers interested in collaborating on renewabl
 
 ### Japan International Cooperation Agency Findings
 
-# Boreas
-
 ## JICA Project Findings: Rwanda Electricity Development Plan
 
 As of recent research (September 2026):
@@ -201,8 +199,6 @@ As of recent research (September 2026):
 This JICA-supported initiative aims to create the strategic framework necessary for developing Rwanda's geothermal resources as part of its broader energy diversification strategy outlined in the Energy Sector Strategic Plan.
 
 ---
-
-### Ministry of Infrastructure Energy Sector Information
 
 # Summary of MININFRA Energy Sector Information
 
@@ -255,8 +251,6 @@ Rwanda's energy sector is guided by:
 Coordination occurs through the E-SWAP secretariat and regular Joint Sector Reviews.
 
 ---
-
-### Geothermal Energy in Rwanda: Summary of Findings
 
 # Geothermal Energy in Rwanda: Summary of Findings
 
@@ -344,8 +338,6 @@ By implementing these lessons and fostering regional cooperation, Rwanda can red
 *Note: This summary compiles information from multiple sources researched on September 6, 2026.*
 
 ---
-
-### Solar Power Generation ROI Analysis
 
 # Solar Power Generation ROI Analysis: 100kW to 10MW Systems for Kigali City
 
@@ -462,8 +454,6 @@ For immediate implementation, 100kW-500kW systems targeting high-tariff commerci
 *Note: All currency conversions based on approximate 2026 exchange rates. Actual project costs may vary based on specific site conditions, financing structures, and market fluctuations.*
 
 ---
-
-### Energy Required to Pump Water to Kigali City
 
 # Energy Required to Pump Water to Kigali City
 
@@ -618,8 +608,6 @@ This demonstrates that solar PV could offset a significant portion of Kigali's w
 *Note: Actual energy consumption will vary based on specific system design, maintenance condition, flow rates, and local factors. The calculations above provide a reasonable engineering estimate for planning and analysis purposes.*
 
 ---
-
-### Hot Springs Energy Profitability Analysis for Rwanda
 
 # Hot Springs Energy Profitability Analysis for Rwanda
 
@@ -933,8 +921,6 @@ The optimal approach for Shyuha would be to initiate pilot direct use projects t
 
 ---
 
-### Shyuha Project: Implementation Timeline and Activities
-
 # Shyuha Project: Implementation Timeline and Activities
 
 This document consolidates the implementation timeline and specific activities for the Shyuha project, drawing from all research documents in the repository. It provides a chronological roadmap for advancing Rwanda's renewable energy initiatives with a focus on geothermal direct-use applications, solar power optimization, and water pumping efficiency.
@@ -1122,8 +1108,6 @@ This timeline should be reviewed and updated:
 *Based on research from: HOT_SPRINGS_ENERGY_PROFITABILITY, SOLAR_ROI_ANALYSIS, WATER_PUMPING_ENERGY, SUMMARY, JICA, MININFRA*
 
 ---
-
-### Shyuha Project GANTT Chart
 
 # Shyuha Project GANTT Chart
 
