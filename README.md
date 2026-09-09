@@ -130,7 +130,7 @@ Addressing Kigali's significant water-pumping energy burden (~$5.2M/year):
 - **Economic Impact**: Jobs created, diesel imports reduced, export earnings increased
 - **Environmental Impact**: Tons of CO2 emissions avoided
 - **Social Impact**: Improved energy access, enhanced agricultural productivity
-- **Knowledge Impact**: Stakeholders served, datasets downloaded, citations in policy documents
+- **Knowledge Impact**: Stakeholders reached, datasets downloaded, citations in policy documents
 
 ### Implementation Roadmap (2026-2029)
 **Q4 2026 - Q2 2027**: Foundation Building
