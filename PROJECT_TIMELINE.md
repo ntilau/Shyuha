@@ -181,7 +181,7 @@ This timeline should be reviewed and updated:
 - Ad-hoc: Major changes in policy, financing, or technical circumstances
 
 ---
-*Timeline last updated: September 2026*
+\*Timeline last updated: September 2026*
 *Based on research from: HOT_SPRINGS_ENERGY_PROFITABILITY, SOLAR_ROI_ANALYSIS, WATER_PUMPING_ENERGY, SUMMARY, JICA, MININFRA*
 
 ---
