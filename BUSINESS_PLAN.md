@@ -8,7 +8,7 @@ This business plan outlines a comprehensive strategy for developing geothermal p
 Rwanda possesses conservative geothermal estimates of up to 100 MW, with some sources suggesting potential exceeding 700 MW. The Northwestern Volcanic Area (Gisenyi, Karisimbi, Kinigi) and Southern Rift-Fault Area (Bugarama) represent the most promising prospect zones for development.
 
 ### Business Model
-The venture will operate as an Independent Power Producer (IPP) developing, owning, and operating geothermal power plants under long-term Power Purchase Agreements (PPAs) with Rwanda Energy Group (REG) or direct sales to industrial customers. Revenue will be primarily generated through electricity sales at regulated tariffs, supplemented by potential carbon credit revenues and ancillary services.
+The venture will operate as an Independent Power Producer (IPP) developing, owning, and operating geothermal power plants under long-term Power Purchase Agreements (PPAs) with Rwanda Energy Group (REG) or direct sales to industrial customers. Revenue will be primarily generated through electricity sales at regulated tariffs, supplemented by potential carbon credit revenues and ancillary services. The business model also incorporates micro-turbine technology (1 kW to 50 kW) from Turtle Turbines for smaller-scale distributed generation applications, particularly suitable for remote communities, industrial waste heat recovery, and hybrid renewable systems.
 
 ### Financial Highlights
 - **Initial Investment**: $16.25-$32.5 million for a 5-10 MW binary cycle plant
@@ -124,6 +124,16 @@ Given the resource temperature range of 70-75°C+ identified at surface manifest
 - **Proven Technology**: Commercial success in similar temperature resources globally
 - **Modular Design**: Facilitates phased implementation
 - **Grid Compatibility**: Standard electrical output compatible with REG infrastructure
+
+### 3.3 Micro-Turbine Technology Options
+For smaller-scale applications and distributed generation, the venture will also evaluate micro-turbine technology from providers such as Turtle Turbines (1 kW to 50 kW range). These systems can be particularly valuable for:
+- Remote community power systems
+- Industrial waste heat recovery applications
+- Hybrid renewable energy systems (combined with solar or biomass)
+- Pilot projects to demonstrate technology viability before scaling to larger binary cycle plants
+- Applications requiring rapid deployment and modular scalability
+
+Micro-turbines offer advantages including lower initial capital costs, faster deployment timelines, and suitability for applications where full-scale binary cycle plants may not be economically viable due to resource limitations or grid access constraints.
 
 ### 3.2 Plant Components
 
@@ -417,6 +427,7 @@ Community Relations                              Grid Integration
 - Commence exploratory drilling at Kinigi/Gisenyi using Kenyan best practices and technical partners
 - Implement reservoir management monitoring from initial wells
 - Explore aquaculture facility heating pilots alongside greenhouse projects
+- Launch micro-turbine pilot projects (1-50 kW) for remote communities and industrial applications
 - Deploy 500kW solar PV system on government building
 - Implement net metering arrangement with REG
 - Begin commercial/industrial rooftop solar outreach program
@@ -430,6 +441,7 @@ Community Relations                              Grid Integration
 
 **Deliverables**:
 - Operational direct-use pilot with verified ROI
+- Micro-turbine pilot projects operational with performance data
 - Commenced exploratory drilling program
 - Reservoir monitoring system operational
 - Solar PV system generating electricity
