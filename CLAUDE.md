@@ -1,3 +1,4 @@
+# CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -12,42 +13,55 @@ The Shyuha project aims to:
 - Provide a reliable knowledge base for policymakers, investors, and researchers working on Rwanda's sustainable energy transition.
 
 ## File Structure
-- `JICA.md` – Findings from the Japan International Cooperation Agency (JICA) project on Rwanda's Electricity Development Plan.
-- `MININFRA.md` – Summary of Rwanda's Ministry of Infrastructure (MININFRA) energy sector information (energy mix, access statistics).
+The repository is organized as follows:
+
+**Root Level** (primary research documents):
 - `SUMMARY.md` – Research findings on geothermal energy potential, prospect zones, exploration history, and development plans for Rwanda.
 - `SOLAR_ROI_ANALYSIS.md` – Return on investment analysis for solar photovoltaic systems (100kW–10MW) targeting Kigali City.
 - `WATER_PUMPING_ENERGY.md` – Analysis of energy required to pump water to Kigali City, including elevation head, friction losses, and cost estimates.
 - `HOT_SPRINGS_ENERGY_PROFITABILITY.md` – Profitability and ROI analysis of harnessing Rwanda's hot springs energy for electrical generation and direct thermal applications.
 - `PROJECT_TIMELINE.md` – Consolidated implementation timeline and specific activities for all project phases.
 - `README.md` – Project overview and description of the Shyuha project.
-- `.claude/settings.local.json` – Permission settings for Claude Code (allowed Bash and WebFetch commands).
+- `BUSINESS_PLAN.md` – Comprehensive business plan for geothermal power generation in Rwanda (see also README.md for overview).
+- `RISK_REGISTER.md` – Detailed risk assessment and mitigation strategies for the geothermal project.
 
-## Common Development Tasks
-Since this repository consists primarily of markdown documentation, typical tasks involve creating, editing, and validating documents.
+**Supporting Directories**:
+- `sources/` – External source documents referenced in the research:
+  - `JICA.md` – Findings from the Japan International Cooperation Agency (JICA) project on Rwanda's Electricity Development Plan.
+  - `MININFRA.md` – Summary of Rwanda's Ministry of Infrastructure (MININFRA) energy sector information (energy mix, access statistics).
+- `archive/` – Contains archived versions of key analyses (e.g., solar ROI, water pumping energy) and an archive README.
+- `evidence/` – Contains supporting evidence documents for geothermal energy:
+  - `DIRECT_USE_OPTIONS.md` – Options for direct use of geothermal energy.
+  - `GEOTHERMAL_RESOURCE_BASE.md` – Details on the geothermal resource base.
+  - `NATIONAL_ENERGY_CONTEXT.md` – National energy context and policies.
 
-### Git Commands
-- Check status: `git status`
-- View changes: `git diff`
-- Stage changes: `git add <file>` or `git add .`
-- Commit changes: `git commit -m "Descriptive message"`
-- Push to remote: `git push`
-- Pull updates: `git pull`
-- Create branch: `git switch -c <new-branch>`
-- Merge branch: `git merge <branch-name>`
+## Using Claude Code in this Repository
+Since this repository consists solely of markdown documentation, typical interactions with Claude Code involve:
+- Reading files using the `Read` tool to review existing research.
+- Writing or editing files using the `Write` and `Edit` tools to add new research or update existing content.
+- Validating markdown quality using external tools (see below).
 
-### Markdown Linting and Spell Checking
-Install tools via npm (if desired):
-- `npm install -g markdownlint-cli2`
-- `npm install -g markdown-spellcheck`
-
-Then run:
-- Lint markdown: `markdownlint-cli2 "**/*.md"`
-- Spell check: `markdown-spellcheck "**/*.md"`
-
-### Previewing Markdown
-To preview changes locally, you can use:
-- `pandoc <file>.md -t html -o preview.html` (requires pandoc)
-- Or open the file in a markdown viewer (e.g., Typora, VS Code preview).
+### Common Development Tasks
+- **Markdown Validation**: Install and run markdown linter and spell checker to maintain quality.
+  - Install tools (if desired): 
+    ```bash
+    npm install -g markdownlint-cli2
+    npm install -g markdown-spellcheck
+    ```
+  - Lint markdown: `markdownlint-cli2 "**/*.md"`
+  - Spell check: `markdown-spellcheck "**/*.md"`
+- **Previewing Markdown**: To preview changes locally, you can use:
+  - `pandoc <file>.md -t html -o preview.html` (requires pandoc)
+  - Or open the file in a markdown viewer (e.g., Typora, VS Code preview).
+- **Git Operations**: Standard Git commands for version control.
+  - Check status: `git status`
+  - View changes: `git diff`
+  - Stage changes: `git add <file>` or `git add .`
+  - Commit changes: `git commit -m "Descriptive message"`
+  - Push to remote: `git push`
+  - Pull updates: `git pull`
+  - Create branch: `git switch -c <new-branch>`
+  - Merge branch: `git merge <branch-name>`
 
 ### Adding New Research Files
 When adding a new markdown file:
